@@ -10,10 +10,12 @@ twitter: https://twitter.com/commiteatv
 
 
 Enlace a la presentación:
+
 [presentation.pdf](./presentation.pdf)
 
 
 Documentos del proyecto:
+[presentation.pdf](https://drive.google.com/drive/folders/1b_t0SRNDRduaVvu6LazhYvQureFtKbn7?usp=sharing)
 
 
 ¡Muchas gracias!
