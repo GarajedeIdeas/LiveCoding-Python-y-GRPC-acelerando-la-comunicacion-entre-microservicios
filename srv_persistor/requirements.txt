@@ -1,0 +1,3 @@
+grpcio==1.43.0
+grpcio-tools==1.43.0
+pymongo==4.0.2

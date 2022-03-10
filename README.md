@@ -5,6 +5,9 @@
 # Python y GRPC, acelerando la comunicación entre microservicios
 
 ### Por Antonio Ramón Molina, Engineering Manager @ Nextail
+personal web: https://commitea.es/
+twitter: https://twitter.com/commiteatv
+
 
 Enlace a la presentación:
 

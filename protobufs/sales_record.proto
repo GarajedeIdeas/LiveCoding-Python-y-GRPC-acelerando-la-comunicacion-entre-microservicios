@@ -1,0 +1,31 @@
+syntax = "proto3";
+
+message EmptyMesssage {}
+
+message SalesRecordPingResponse {
+    string result = 1;
+}
+
+message SalesRecordResponse {
+    string data = 1;
+}
+
+message PayloadRequest {
+    string payload = 1;
+}
+
+message SalesRecordRequest {
+    string region = 1;
+    string item_type = 2; 
+    string units_sold = 3;
+    string unit_price = 4;
+    string unit_cost = 5;
+    string source = 6;
+}
+
+service SalesRecord {
+    rpc PingSalesRecords(EmptyMesssage) returns (SalesRecordPingResponse);
+    rpc SendSalesRecords(SalesRecordRequest) returns (SalesRecordResponse);
+    rpc SendSalesPayload(PayloadRequest) returns (SalesRecordResponse);
+    rpc SendSalesRecordsStream(stream SalesRecordRequest) returns (SalesRecordResponse);
+}
