@@ -15,7 +15,7 @@ Enlace a la presentación:
 
 
 Documentos del proyecto:
-[presentation.pdf](https://drive.google.com/drive/folders/1b_t0SRNDRduaVvu6LazhYvQureFtKbn7?usp=sharing)
+[dummy data files](https://drive.google.com/drive/folders/1b_t0SRNDRduaVvu6LazhYvQureFtKbn7?usp=sharing)
 
 
 ¡Muchas gracias!
